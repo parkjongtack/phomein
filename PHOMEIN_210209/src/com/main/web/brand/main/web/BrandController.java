@@ -72,7 +72,7 @@ public class BrandController {
 
 	@RequestMapping(value = "/show_popup.do", method = RequestMethod.POST)
 	public @ResponseBody Map<String, Object> show_popup(@RequestParam Map param) throws Exception {
-		param.put("cate", "115201"); // 브랜드사이트
+		param.put("cate", "115201"); // 釉뚮옖�뱶�궗�씠�듃
 		Map<String, Object> returnMap = new HashMap<String, Object>();
 
 		returnMap.put("resultList", popupService.showPopup(param));

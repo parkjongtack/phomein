@@ -184,7 +184,7 @@ var front = {
 
 				//GNB 마우스 오버 이벤트
 				Gnb.on('mouseenter focusin',function(){
-					inner.stop(true).animate({height: '300px'}, 400);
+					inner.stop(true).animate({height: '350px'}, 400);
 					Header.addClass('on');
 				});
 

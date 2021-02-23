@@ -28,4 +28,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>classes</name>
+			<type>2</type>
+			<location>D:/Git/phomein/PHOMEIN_210209/build/classes</location>
+		</link>
+	</linkedResources>
 </projectDescription>

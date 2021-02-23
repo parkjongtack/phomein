@@ -74,6 +74,28 @@ public class CompanyFranchiseeController {
 		}
 		return NAMESPACE + "red";
 	}
+	
+	@RequestMapping(value = { "rice.do" }, method = { RequestMethod.GET, RequestMethod.POST })
+	public String rice(@RequestParam Map param, HttpSession session, ModelMap model, HttpServletRequest request,
+			HttpServletResponse response) throws Exception {
+		String deviceType = getDeviceType(request);
+
+		if(!deviceType.equals("normal")){
+			return M_NAMESPACE + "rice";
+		}
+		return NAMESPACE + "rice";
+	}
+	
+	@RequestMapping(value = { "delivery.do" }, method = { RequestMethod.GET, RequestMethod.POST })
+	public String delivery(@RequestParam Map param, HttpSession session, ModelMap model, HttpServletRequest request,
+			HttpServletResponse response) throws Exception {
+		String deviceType = getDeviceType(request);
+
+		if(!deviceType.equals("normal")){
+			return M_NAMESPACE + "delivery";
+		}
+		return NAMESPACE + "delivery";
+	}
 
 	@RequestMapping(value = { "step02.do", "system.do" }, method = { RequestMethod.GET, RequestMethod.POST })
 	public String step02(@RequestParam Map param, HttpSession session, ModelMap model, HttpServletRequest request,
@@ -130,7 +152,7 @@ public class CompanyFranchiseeController {
 		return NAMESPACE + "interior";
 	}
 
-	// 매장 리스트 AJAX 조회
+	// 留ㅼ옣 由ъ뒪�듃 AJAX 議고쉶
 	@RequestMapping(value = "/get_interior_list_ajax.do", method = RequestMethod.POST)
 	public @ResponseBody Map<String, Object> get_interior_list_ajax(@RequestParam Map param,
 			@RequestParam(required = false, defaultValue = "1") String pageIndex, HttpServletRequest request)
@@ -154,7 +176,7 @@ public class CompanyFranchiseeController {
 		param.put("useyn", 1);
 		param.put("interioryn", "Y");
 		param.put("openstatus", 2);
-		// 매장 리스트 조회
+		// 留ㅼ옣 由ъ뒪�듃 議고쉶
 		returnMap.put("result", storeService.selectPaging(param));
 		param.put("pageUnit", 9999);
 		param.put("startCount", 0);
@@ -193,7 +215,7 @@ public class CompanyFranchiseeController {
 		return NAMESPACE + "interview";
 	}
 
-	// 인터뷰 리스트 AJAX 조회
+	// �씤�꽣酉� 由ъ뒪�듃 AJAX 議고쉶
 	@RequestMapping(value = "/get_interview_list_ajax.do", method = RequestMethod.POST)
 	public @ResponseBody Map<String, Object> get_interview_list_ajax(@RequestParam Map param,
 			@RequestParam(required = false, defaultValue = "1") String pageIndex, HttpServletRequest request)
@@ -215,7 +237,7 @@ public class CompanyFranchiseeController {
 
 		param.put("startCount", startCount);
 		param.put("search_useyn", 1);
-		// 매장 리스트 조회
+		// 留ㅼ옣 由ъ뒪�듃 議고쉶
 		returnMap.put("result", interviewService.selectPaging(param));
 		param.put("pageUnit", 9999);
 		param.put("startCount", 0);
@@ -268,14 +290,14 @@ public class CompanyFranchiseeController {
 		}
 
 		csCenter.setSeq(StringUtils.isEmpty(customerService.nextSeq()) ? "1" : customerService.nextSeq());
-		// customer : 일반인, store : 가맹점
+		// customer : �씪諛섏씤, store : 媛�留뱀젏
 		csCenter.setCode("store");
-		// Y : 접수중, N : 답변완료
+		// Y : �젒�닔以�, N : �떟蹂��셿猷�
 		csCenter.setWorking("Y");
 		csCenter.setAnsweryn("N");
 		csCenter.setRegid("admin");
 		csCenter.setModid("admin");
-		// 고객의소리 기본 정보 save
+		// 怨좉컼�쓽�냼由� 湲곕낯 �젙蹂� save
 		customerService.mergeCsCenter(csCenter);
 		returnMap.put("result", "SUCCESS");
 		return returnMap;

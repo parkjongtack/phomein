@@ -2,72 +2,103 @@
 		<!-- location-menu -->
 		<div class="location-menu">
 			<div class="inner">
-				<a href="/company/main/main.do" class="btn-home"></a>
+				<a href="/brand/main/main.do" class="btn-home"></a>
 				<!-- nav -->
 				<div class="nav">
 					<ul>
 						<li class="depth01">
 							<a href="javascript:;" class="nav-title"></a>
 							<ul class="nav-list">
-								<li id="회사소개"><a href="/company/company/dailyking.do">회사소개</a></li>
-								<li id="연구개발"><a href="/company/rnd/phoseason.do">연구개발</a></li>
-								<li id="가맹개설정보"><a href="/company/franchisee/step01.do">가맹개설정보</a></li>
-								<li id="사회공헌"><a href="/company/csr/phoever.do">사회공헌</a></li>
-								<li id="POLICY"><a href="/company/etc/terms.do">POLICY</a></li>
+								<li id="COMPANY"><a href="/company/company/dailyking.do">COMPANY</a></li>
+								<li id="BRAND"><a href="/company/company/phomein.do">BRAND</a></li>
+								<li id="MENU"><a href="/brand/menu/menu_list.do">MENU</a></li>
+								<li id="STORE"><a href="/brand/store/store_list.do">STORE</a></li>
+								<li id="FRANCHISE"><a href="/company/franchisee/step01.do">FRANCHISE</a></li>
+								<li id="COMMUNITY"><a href="/brand/community/notice/community_list.do">COMMUNITY</a></li>
+								<li id="CS CENTER"><a href="/brand/cs_center/cs_terms.do">CS CENTER</a></li>
+								<li id="POLICY"><a href="/brand/etc/terms.do">POLICY</a></li>
 							</ul>
 						</li>
 						<li class="depth02" style="display:none;">
-							<a href="javascript:;" class="nav-title">회사소개</a>
+							<a href="javascript:;" class="nav-title">COMPANY</a>
 							<dd style="display:none;">COMPANY</dd>
 							<ul class="nav-list">
 								<li><a href="/company/company/dailyking.do">(주)데일리킹</a></li>
-								<li><a href="/company/company/phomein.do">포메인</a></li>
-								<li><a href="/company/franchisee/red.do">포메인 RED</a></li>
-								<!-- 20190426 메뉴 추가 s -->
-								<!-- <li><a href="/eng/phomein/ceo.do">CEO</a></li> -->
-								<!-- //20190426 메뉴 추가 e -->
-								<!-- <li><a href="/company/company/brownsugar.do">패밀리 브랜드</a></li> -->
+								<li><a href="/company/rnd/phoseason.do">PHOSEASON INC.</a></li>
 								<li><a href="/company/company/ceo.do">CEO 인사말</a></li>
-								<li><a href="/company/company/location.do">오시는 길</a></li>
-							</ul>
-						</li>
-						<li class="depth02" style="display:none;">
-							<a href="javascript:;" class="nav-title">연구개발</a>
-							<dd style="display:none;">RND</dd>
-							<ul class="nav-list">
-								<li><a href="/company/rnd/phoseason.do">포시즌</a></li>
 								<li><a href="/company/rnd/greenfood.do">현대그린푸드 MOU</a></li>
-								<li><a href="/company/rnd/educ.do">전문 교육장</a></li>
+								<li><a href="/company/csr/phoever.do">사회공헌활동</a></li>
 							</ul>
 						</li>
 						<li class="depth02" style="display:none;">
-							<a href="javascript:;" class="nav-title">가맹개설정보</a>
-							<dd style="display:none;">FRANCHISEE</dd>
+							<a href="javascript:;" class="nav-title">BRAND</a>
+							<dd style="display:none;">BRAND</dd>
+							<ul class="nav-list">
+								<li><a href="/company/company/phomein.do">포메인</a></li>
+								<li><a href="/company/franchisee/red.do">포메인 레드</a></li>
+							</ul>
+						</li>
+						<li class="depth02" style="display:none;">
+							<a href="javascript:;" class="nav-title">MENU</a>
+							<dd style="display:none;">MENU</dd>
+							<ul class="nav-list">
+								<li><a href="/brand/menu/menu_list.do">메뉴</a></li>
+								<li><a href="/company/franchisee/rice.do">국내유일 햅쌀면</a></li>
+							</ul>
+						</li>
+						<li class="depth02" style="display:none;">
+							<a href="javascript:;" class="nav-title">STORE</a>
+							<dd style="display:none;">STORE</dd>
+							<ul class="nav-list">
+								<li><a href="/brand/store/store_list.do">매장찾기</a></li>
+								<li><a href="/company/franchisee/delivery.do">딜리버리 서비스</a></li>
+							</ul>
+						</li>
+						<li class="depth02" style="display:none;">
+							<a href="javascript:;" class="nav-title">FRANCHISE</a>
+							<dd style="display:none;">FRANCHISE</dd>
 							<ul class="nav-list">
 								<li><a href="/company/franchisee/step01.do">가맹 안내</a></li>
 								<li style="display:none;"><a href="/company/franchisee/step02.do">가맹 안내</a></li>
 								<li style="display:none;"><a href="/company/franchisee/step03.do">가맹 안내</a></li>
-								<!-- <li><a href="/company/franchisee/estimate.do">가맹 비용</a></li> -->
-								<li><a href="/company/franchisee/interior.do">인테리어</a></li>
-								<!-- <li><a href="/company/franchisee/interview.do">우수매장</a></li> -->
 								<li><a href="/company/franchisee/terms.do">가맹 상담 신청</a></li>
 								<li style="display:none;"><a href="/company/franchisee/info.do">가맹 상담 신청</a></li>
+								<li><a href="/company/franchisee/terms.do">연구개발</a></li>
 							</ul>
 						</li>
 						<li class="depth02" style="display:none;">
-							<a href="javascript:;" class="nav-title">사회공헌</a>
-							<dd style="display:none;">CSR</dd>
+							<a href="javascript:;" class="nav-title">COMMUNITY</a>
+							<dd style="display:none;">COMMUNITY</dd>
 							<ul class="nav-list">
-								<li><a href="/company/csr/phoever.do">CSR</a></li>
+								<li><a href="/brand/community/sns/community_list.do">인스타그램</a></li>
+								<li><a href="/brand/community/sns/community_list.do">블로그</a></li>
+								<li><a href="/brand/community/sns/community_list.do">유튜브</a></li>
+								<li><a href="/brand/community/notice/community_list.do">공지 & 언론보도</a></li>
+								<li><a href="/brand/phomein/coupon_01.do">상품권</a></li>
+								<li style="display:none;"><a href="/brand/phomein/coupon_02.do">상품권</a></li>
+								<li style="display:none;"><a href="/brand/phomein/coupon_03.do">상품권</a></li>
+								<li><a href="/brand/phomein/member_ship.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_01.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_02.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_03.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_04.do">멤버십</a></li>
+							</ul>
+						</li>
+						<li class="depth02" style="display:none;">
+							<a href="javascript:;" class="nav-title">CS CENTER</a>
+							<dd style="display:none;">CS CENTER</dd>
+							<ul class="nav-list">
+								<li><a href="/brand/cs_center/cs_terms.do">고객의 소리</a></li>
+								<li style="display:none;"><a href="/brand/cs_center/cs_info.do">고객의 소리</a></li>
 							</ul>
 						</li>
 						<li class="depth02" style="display:none;">
 							<a href="javascript:;" class="nav-title">POLICY</a>
 							<dd style="display:none;">POLICY</dd>
 							<ul class="nav-list">
-								<li><a href="/company/etc/terms.do">이용약관</a></li>
-								<li><a href="/company/etc/privacy.do">개인정보취급방침</a></li>
-								<li><a href="/company/etc/email.do">이메일무단수집거부</a></li>
+								<li><a href="/brand/etc/terms.do">이용약관</a></li>
+								<li><a href="/brand/etc/privacy.do">개인정보취급방침</a></li>
+								<li><a href="/brand/etc/email.do">이메일무단수집거부</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -81,10 +112,16 @@
 	$(document).ready(function () {
 		var url = fnParsingUrl($(location).attr("pathname"));
 		
+		console.log(url);
+		
 		$(".depth02 ul li a").each(function(index) {
+			console.log($(this).attr("href"));//
 			if($(this).attr("href") == url){
 				$(this).parent("li").attr("class", "actived"); // depth02 active
 				$(this).closest(".depth02").show(); // depth02 show
+				if($(this).text() == '메뉴소개') {
+					$(this).closest(".depth02").hide(); // depth02 show
+				}
 				var aId = $(this).closest(".depth02").children('a').text();
 				$("#"+aId).attr("class", "actived"); // depth01 active
 				$(".depth01").children('a').text(aId); // depth01 text
@@ -94,7 +131,8 @@
 	});
 	
 	var fnParsingUrl = function(url) {
-		if (url.indexOf('company/franchisee/step') > -1) 		url = '/company/franchisee/step01.do';
+		if (url.indexOf('coupon') > -1) 		url = '/brand/phomein/coupon_01.do';
+		else if (url.indexOf('mileage') > -1)	url = '/brand/phomein/member_ship.do';
 		
 		return url;
 	};

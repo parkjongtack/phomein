@@ -3,6 +3,7 @@
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/WEB-INF/classes/" source-path="/ImportedClasses"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/classes"/>
         <property name="context-root" value="PHOMEIN_210209"/>
         <property name="java-output-path" value="/PHOMEIN_210209/build/classes"/>
     </wb-module>

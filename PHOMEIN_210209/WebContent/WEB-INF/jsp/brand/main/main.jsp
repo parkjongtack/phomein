@@ -43,20 +43,28 @@
 				<div id="section1" class="section">
 					<div class="top-visual">
 						
-						<div class="list" style="background-image:url('../images/tmp/main_visual_0.png');">
+						<div class="list" style="background-image:url('../images/tmp/main_visual_0_1.png');">
 							<div class="info-box">
-								<p class="tit"><span>소규모 프리미엄 쌀국수 브랜드</span>포메인 RED 런칭</p>
-								<p class="txt main_txt">
-								<span><b style="color:#ab3221;">R</b>ice noodle <b style="color:#ab3221;">E</b>xpress <b style="color:#ab3221;">D</b>elivery</span>
-								
-								</p>
-								<a href="http://www.phomein.com/company/franchisee/red.do" style="display:inline-block; margin-top:50px; padding:13px 24px; background-color:#8a382c; color:#fff; font-size:16px;">브랜드 스토리 확인</a>
+								<p class="tit" style="font-size: 30px;">SINCE 2006</p>
+								<p class="tit"><span>2021, 창립 15주년</span>대한민국 NO.1 베트남 쌀국수 브랜드</p>
+								<p class="txt" style="font-weight:lighter; font-size:20px; line-height:35px; margin-top:35px;">포메인은 지난 15년간 명실상부한 1위 브랜드로 자리매김하였습니다.<br/>위기를 이기는 포메인의 견고함은 차별화된 경쟁력에 있습니다.</p>
+								<!-- <a href="http://www.phomein.com/company/franchisee/red.do" style="display:inline-block; margin-top:50px; padding:13px 24px; background-color:#8a382c; color:#fff; font-size:16px;">브랜드 스토리 확인</a> -->
 
-								<p class="visual-dot-nav">소자본 창업<br>포메인 RED</p>
+								<p class="visual-dot-nav">쌀국수는 포메인</p>
 							</div>
 						</div>
-
-						<div class="list" style="background-image:url('../images/tmp/main_visual_01_02.jpg');">
+						<div class="list" style="background-image:url('../images/tmp/main_visual_0_2.png');">
+							<div class="info-box">
+								<p class="tit"><span>소규모 프리미엄 쌀국수 브랜드</span>포메인 RED</p>
+								<p class="txt" style="font-weight:lighter; font-size:20px; line-height:35px; margin-top:35px;">포메인은 위해 상품 차단 시스템으로 안전성과 품질을 인증받은 재료로<br/>매일매일 건강하고 신선한 테이블을 만듭니다.</p>
+								<!-- <p class="txt">햅쌀로 직접 만든 쌀국수면으로 깨끗하고 건강한 쌀국수를 선사합니다.</p> -->
+								<!-- <p class="visual-dot-nav">매일매일 까다로운 <br>포메인다움</p> -->
+								<!-- 20190318 수정 s -->
+								<p class="visual-dot-nav">프리미엄 쌀국수<br/>포메인 RED</p>
+								<!-- //20190318 수정 e -->
+							</div>
+						</div>
+						<!-- <div class="list" style="background-image:url('../images/tmp/main_visual_1.png');">
 							<div class="info-box">
 								<p class="tit"><span>포메인,</span>햅쌀로 자가제면 自家製麵</p>
 								<p class="txt main_txt">
@@ -66,21 +74,22 @@
 								<span class="bar">&nbsp;&nbsp; | &nbsp;&nbsp;</span>
 								<span>부드럽고 쫀득한 식감</span>
 								</p>
-								<p class="txt" style="font-weight:lighter; font-size:18px; line-height:35px; margin-top:35px;">1년 365일 햅쌀로 직접 만들어 건강한 쌀국수면과 품질개선으로 더 깊어진 명품 육수까지 -<br> 쌀국수는 포메인입니다.</p>
+								<p class="txt" style="font-weight:lighter; font-size:18px; line-height:35px; margin-top:35px;">포메인 레드는 2014년 국내 최초 딜리버리 서비스로 쌓은 노하우를<br/>기반으로 안정적인 창업환경과 높은 영업이익률을 보장합니다.</p>
 								<p class="visual-dot-nav">쌀국수는<br>포메인</p>
 							</div>
-						</div>
-						<div class="list" style="background-image:url('../images/tmp/main_visual_01_01.jpg');">
+						</div> -->
+						<div class="list" style="background-image:url('../images/tmp/main_visual_0_3.png');">
 							<div class="info-box">
-								<p class="tit"><span>쌀 한 톨부터 다른</span>포메인다움</p>
-								<p class="txt">햅쌀로 직접 만든 쌀국수면으로 깨끗하고 건강한 쌀국수를 선사합니다.</p>
+								<p class="tit"><span>안전한 식재료 · 정직한 먹거리</span>건강한 약속 X 바른 식탁</p>
+								<!-- <p class="txt">햅쌀로 직접 만든 쌀국수면으로 깨끗하고 건강한 쌀국수를 선사합니다.</p> -->
+								<p class="txt" style="font-weight:lighter; font-size:20px; line-height:35px; margin-top:35px;">포메인은 위해 상품 차단 시스템으로 안전성과 품질을 인증받은 재료로<br/>매일매일 건강하고 신선한 테이블을 만듭니다.</p>
 								<!-- <p class="visual-dot-nav">매일매일 까다로운 <br>포메인다움</p> -->
 								<!-- 20190318 수정 s -->
-								<p class="visual-dot-nav">쌀 한 톨부터 다른<br>포메인다움</p>
+								<p class="visual-dot-nav">건강한 약속 X 바른 식탁</p>
 								<!-- //20190318 수정 e -->
 							</div>
 						</div>
-						<div class="list" style="background-image:url('../images/tmp/main_visual_01_03.jpg');">
+						<!-- <div class="list" style="background-image:url('../images/tmp/main_visual_01_03.jpg');">
 							<div class="info-box">
 								<p class="tit"><span>매일매일 까다로운</span>포메인다움</p>
 								<p class="txt">엄선한 천연 향신료로 매일 매장에서 14시간 끓여낸 육수를 담습니다.</p>
@@ -93,13 +102,40 @@
 								<p class="txt">위해 상품차단 시스템으로 안전하고 우수한 품질의 식자재를 공급 받습니다.</p>
 								<p class="visual-dot-nav">재료부터 건강한<br>포메인다움</p>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<!-- //section 1 -->
 				<!-- section 2 -->
-				<div id="section2" class="section" style="background-image:url('../images/tmp/main_visual_02.jpg');">
-					<div class="sales-volume">
+				<div id="section2" class="section" style="background-image:url('../images/tmp/main_visual_1.png');">
+					<div class="box_02 inner">
+						<div class="box left_box">
+							<img src="../images/tmp/main_visual_1_1.png" alt="" />
+							<div class="text_box">
+								<h3>PHOSEASON INC.</h3>
+								<p>2015년 설립한 베트남 현지법인 쌀국수 공장 포시즌에서 <br/>포메인만의 독자기술로 국내유일 햅쌀면과<br/>명품육수 제조용 허브백을 자체개발-생산합니다.</p>
+								<div class="btn_box">
+									<a href="">
+										<span>포시즌</span>
+									</a>
+									<a href="">
+										<span>국내유일 햅쌀면</span>
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="box right_box">
+							<img src="../images/tmp/main_visual_1_2.png" alt="" />
+							<div class="text_box">
+								<h3>MENU</h3>
+								<p>포메인만의 레시피로 재해석한<br/>베트남 요리의 감동을 즐겨보세요.</p>
+								<div class="btn_box">
+									<a href=""><span>메뉴보기</span></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- <div class="sales-volume">
 						<p class="label">SINCE 2006</p>
 						<p class="tit">대한민국 쌀국수의 역사, <br>포메인으로부터.</p>
 						<div class="volume-box">
@@ -107,100 +143,95 @@
 							<p class="txt">쌀국수 누적 판매량</p>
 							<p><img src="../images/icon/ico_sales_volume.png" alt=""/></p>
 						</div>
-					</div>
+					</div> -->
 				</div>
 				<!-- //section 2 -->
 				<!-- section 3 -->
-				<div id="section3" class="section" style="background-image:url('../images/tmp/main_visual_03.jpg');">
-					<div class="menu-section">
+				<div id="section3" class="section" style="background-image:url('../images/tmp/main_visual_02.png');">
+					<div class="franchisee-section">
 						<div class="top-box">
-							<p class="tit">베트남 요리,<span>32가지 감동을 담다.</span></p>
-							<p class="btn"><a href="/brand/menu/menu_list.do">포메인 전체메뉴 보기</a></p>
-							<p class="txt">* 매장별로 판매 메뉴는 상이 할 수 있습니다.</p>
+							<p class="tit"><!--span>포메인</span-->가맹 개설</p>
+							<p class="txt" style="color: #fff; opacity: 1;">포메인은 2006년 [분당 정자본점]을 시작으로  국내에 베트남 쌀국수 문화를 정착시키고<br/>베트남 쌀국수 전문점 운영 노하우와 경쟁력을 보유한 대한민국 대표 쌀국수 전문 브랜드입니다.</p>
+							<p class="txt" style="font-weight:lighter; font-size:14px; line-height:35px; margin-top:35px;">대표 번호 1899-2422 (연결1)   ㅣ   직통 번호 031-780-1500 </p>
 						</div>
 						<div class="bottom-box">
 							<ul>
 								<li>
-									<p class="img"><img src="../images/icon/ico_menu_info_01.png" alt=""/></p>
-									<p class="data"><span class="volume2">${ mainFieldVO.yearCnt }</span><strong>th</strong></p>
-									<p class="txt">SINCE 2006</p>
+									<p class="tit">브랜드 파워</p>
+									<p class="img"><img src="/company/images/content/ico_franchisee_05.png" alt=""/></p>
+									<p class="round-btn"><a href="/company/rnd/phoseason.do"><span>자세히 보기</span></a></p>
 								</li>
-								<!--li>
-									<p class="img"><img src="../images/icon/ico_menu_info_02.png" alt=""/></p>
-									<p class="data"><span class="volume2">${ mainFieldVO.totalStore }</span></p>
-									<p class="txt">매장 수<span>${ mainFieldVO.storeBrandDt }</span></p>
-								</li-->
 								<li>
-									<p class="img"><img src="../images/icon/ico_menu_info_03.png" alt=""/></p>
-									<!-- 20190507 수정 s -->
-									<p class="data"><span class="volume2">${ mainFieldVO.revenue }</span><strong>억</strong></p>
-									<!-- //20190507 수정 e -->
-									<p class="txt">매출액<span>${ mainFieldVO.revenueBrandDt }</span></p>
+									<p class="tit">연구개발</p>
+									<p class="img"><img src="/company/images/content/ico_franchisee_04.png" alt=""/></p>
+									<p class="round-btn"><a href="/company/franchisee/step01.do"><span>자세히 보기</span></a></p>
 								</li>
+								<li>
+									<p class="tit">가맹 상담 신청</p>
+									<p class="img"><img src="/company/images/content/ico_franchisee_01.png" alt=""/></p>
+									<p class="round-btn"><a href="/company/franchisee/terms.do"><span>자세히 보기</span></a></p>
+								</li>
+								<!-- 
+								<li>
+									<p class="tit">가맹 비용</p>
+									<p class="img"><img src="/company/images/content/ico_franchisee_03.png" alt=""/></p>
+									<p class="round-btn"><a href="/company/franchisee/estimate.do"><span>자세히 보기</span></a></p>
+								</li> -->
 							</ul>
 						</div>
 					</div>
 				</div>
-				<!-- //section 3 -->
-				<!-- section 4 -->
-				<div id="section4" class="section" style="background-image:url('../images/tmp/main_visual_04.jpg');">
-					<div class="service-section">
-						<div class="top-box">
-							<p class="txt">ENJOY SERVICE</p>
-							<p class="tit">당신의 모든 순간<span>포메인</span></p>
-						</div>
-						<div class="bottom-box">
-							<div class="left">
-								<a href="http://www.phomein.com/brand/community/notice/community_view.do?seq=86">
-									<span class="img01"><img src="../images/icon/ico_phone_01.png" alt=""/></span>
-									<span class="img02"><img src="../images/icon/ico_phone_02.png" alt=""/></span>
-									<p class="txt">포메인 <strong>카카오톡 선물하기</strong></p>
-								</a>
+				<div id="section4" class="section" style="background-image:url('../images/tmp/main_visual_3.png');">
+					<div class="commuity-section">
+						<div class="top-box sns-list">
+							<p class="tit">SNS</p>
+							<div class="img-board-list type02 swiper-container sns_slider">
+								<ul class="swiper-wrapper">
+									<c:choose>
+										<c:when test="${not empty snsList }" >
+											<c:forEach items="${snsList }" var="result" varStatus="status" >
+												<c:if test="${status.index < 12 }">
+													<li class=<c:if test="${result.cate == '109201' }">"ico-f"</c:if><c:if test="${result.cate == '109202' }">"ico-b"</c:if><c:if test="${result.cate == '109203' }">"ico-i swiper-slide"</c:if> >
+														<p class="img"><img alt="" src="${result.pc_thimg }"></p>
+														<a href="${result.url}" target="_blank">
+														<span class="icon"></span>
+<!-- 																<span class="icon"></span> -->
+															<span class="txt">${fnc:xssContents(result.title )}</span>
+														</a>
+													</li>
+												</c:if>
+											</c:forEach>
+										</c:when>
+										<c:otherwise>
+										</c:otherwise>
+									</c:choose>
+								</ul>
 							</div>
-							<div class="right">
-								<span class="img01"><a href="/brand/store/store_list.do"><img src="../images/icon/ico_moto_01.png" alt=""/></a></span>
-								<span class="img02"><img src="../images/icon/ico_moto_02.png" alt=""/></span>
-								<span class="img03"><img src="../images/icon/ico_moto_03.png" alt=""/></span>
-								<p class="txt">포메인 <strong>딜리버리 매장</strong></p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- //section 4 -->
-				<!-- section 5 -->
-				<div id="section5" class="section" style="background-image:url('../images/tmp/main_visual_05.jpg');">
-					<div class="csr-section">
-						<div class="top-box">
-							<p class="tit"><span>PHOMEIN CSR</span>포메인이 만드는 세상</p>
-							<p class="txt">식지 않는 뜨거운 진심으로 따뜻한 오늘, 따뜻한 세상을 만듭니다.</p>
+							<div class="sns_slider_nav">
+								<div class="swiper-button-next"></div>
+    							<div class="swiper-button-prev"></div>
+    						</div>
 						</div>
 						<div class="bottom-box">
-						<p class="img"><a href="/brand/phomein/phoever.do"><img src="../images/icon/ico_csr.png" alt=""/></a></p>
-						</div>
-					</div>
-				</div>
-				<!-- //section 5 -->
-				<!-- section 6 -->
-				<div id="section6" class="section" style="background-image:url('../images/tmp/main_visual_06.jpg');">
-					<div class="sns-section">
-						<div class="top-box">
-							<p class="tit">PHOMEIN<span>SNS</span></p>
-						</div>
-						<div class="bottom-box">
-							<!-- sns-list -->
-							<div class="sns-list">
-								<!-- img-board-list -->
-								<div class="img-board-list type02">
+							<!-- <a href="/brand/community/event/community_list.do"> -->
+							<div class="event-box" style="background-image:url('../images/tmp/main_visual_3_1.png');">
+								<div class="con">
+									<span class="label">NEWS</span>
+									<span class="more_btn">
+										<a href="/brand/community/event/community_list.do">
+											<img src="/brand/images/tmp/more_btn.png" alt="더보기" />
+										</a>
+									</span>
 									<ul>
 										<c:choose>
-											<c:when test="${not empty snsList }" >
-												<c:forEach items="${snsList }" var="result" varStatus="status" >
-													<c:if test="${status.index < 8 }">
-														<li class=<c:if test="${result.cate == '109201' }">"ico-f"</c:if><c:if test="${result.cate == '109202' }">"ico-b"</c:if><c:if test="${result.cate == '109203' }">"ico-i"</c:if> >
-															<p class="img"><img alt="" src="${result.pc_thimg }"></p>
-															<a href="${result.url}" target="_blank">
-<!-- 																<span class="icon"></span> -->
-																<span class="txt">${fnc:xssContents(result.title )}</span>
+											<c:when test="${not empty noticeList }" >
+												<c:forEach items="${noticeList }" var="result" varStatus="status">
+													<c:if test="${status.index < 4 }">
+														<fmt:parseDate value="${result.regdt}" var="regDt" pattern='yyyy-MM-dd HH:mm:ss'/>
+														<fmt:formatDate value="${regDt}" pattern='yyyy.MM.dd' var="regDttmp"/>
+														<li>
+															<a href="/brand/community/notice/community_view.do?seq=${result.seq }">
+																<p>${fnc:xssContents(result.title )}</p><span><c:out value="${regDttmp }" /></span>
 															</a>
 														</li>
 													</c:if>
@@ -211,104 +242,30 @@
 										</c:choose>
 									</ul>
 								</div>
-								<!-- //img-board-list -->
-
-								<div class="sns-ico">
-									<ul>
-										<li class="ico-f"><a href="https://www.facebook.com/phomein" target="_blank"><span>페이스북</span></a></li>
-										<li class="ico-i"><a href="https://www.instagram.com/phomeinkr/" target="_blank"><span>인스타그램</span></a></li>
-										<li class="ico-b"><a href="https://blog.naver.com/dk_phomein" target="_blank"><span>블로그</span></a></li>
-									</ul>
-								</div>
 							</div>
-							<!-- //sns-list -->
-						</div>
-					</div>
-				</div>
-				<!-- //section 6 -->
-				<!-- section 7 -->
-				<div id="section7" class="section" style="background-image:url('../images/tmp/main_visual_07.jpg');">
-					<div class="commuity-section">
-						<div class="top-box">
-							<div class="news-box">
-								<span class="label">NEWS</span>
-								<ul>
-									<c:choose>
-										<c:when test="${not empty noticeList }" >
-											<c:forEach items="${noticeList }" var="result" varStatus="status">
-												<c:if test="${status.index < 4 }">
-													<fmt:parseDate value="${result.regdt}" var="regDt" pattern='yyyy-MM-dd HH:mm:ss'/>
-													<fmt:formatDate value="${regDt}" pattern='yyyy.MM.dd' var="regDttmp"/>
-													<li><a href="/brand/community/notice/community_view.do?seq=${result.seq }"><span><c:out value="${regDttmp }" /></span>${fnc:xssContents(result.title )}</a></li>
-												</c:if>
-											</c:forEach>
-										</c:when>
-										<c:otherwise>
-										</c:otherwise>
-									</c:choose>
-								</ul>
-							</div>
-						</div>
-						<div class="bottom-box">
-							<a href="/brand/community/event/community_list.do">
-							<div class="event-box" style="background-image:url('../images/tmp/@img_main_event.jpg');">
+							<!-- </a>
+							<a href="/company/franchisee/terms.do" target="_blank"> -->
+							<div class="franchisee-box" style="background-image:url('../images/tmp/main_visual_3_2.png');">
 								<div class="con">
-									<span class="label">EVENT</span>
-									<c:choose>
-										<c:when test="${not empty eventList }" >
-											<c:forEach items="${eventList }" var="result" varStatus="status">
-												<c:if test="${status.index < 1 }">
-													<p class="tit">${fnc:xssContents(result.title )}</p>
-												</c:if>
-											</c:forEach>
-										</c:when>
-										<c:otherwise>
-										</c:otherwise>
-									</c:choose>
-								</div>
-							</div>
-							</a>
-							<a href="/company/franchisee/terms.do" target="_blank">
-							<div class="franchisee-box" style="background-image:url('../images/content/main_franchisee.jpg');">
-								<div class="con">
-									<span class="label">FRANCHISE</span>
-									<p class="img"><img src="../images/content/main_franchisee_02.png" alt="phomein"/></p>
+									<span class="label">가맹 문의 바로가기</span>
+									<span class="more_btn">
+										<a href="/company/franchisee/terms.do">
+											<img src="/brand/images/tmp/more_btn.png" alt="더보기" />
+										</a>
+									</span>
 									<p class="tit">가맹 문의</p>
 									<!--p class="txt">대표번호 : 1899-2422(연결 1)  /  031-780-1500 (직통) <br>이메일 : help@phomein.com</p-->
-									<table cellpadding="0" cellspacing="0" style="margin-top:20px;">
-										<tbody>
-											<tr>
-												<td>
-													<span style="display:block; background-color:#fff; color:#222; font-weight:500; text-align:center; padding:2px 10px;">전화 가맹 문의</span>
-												</td>
-												<td style="padding-bottom:17px;">
-													<p class="txt" style="margin-top:0; margin-left:20px;">· 대표번호 : 1899-2422(연결 1) · 직통 번호 : 031-780-1500 <br>* 전화 상담 가능 시간 : 평일 8:50AM~18:00PM(점심시간 11:50AM~13:00PM)</p>
-												</td>
-											</tr>
-											<tr>
-												<td>
-													<span style="display:block; background-color:#fff; color:#222; font-weight:500; text-align:center; padding:2px 10px;">온라인 가맹 문의</span>
-												</td>
-												<td style="padding-bottom:10px;">
-													<p class="txt" style="margin-top:0; margin-left:20px;">기업 사이트 > 가맹 개설정보 > 가맹상담 신청 게시판 접수<br>* 온라인 가맹 문의는 365일 상시 가능합니다.</p>
-												</td>
-											</tr>
-											<tr>
-												<td colspan="2">
-													<p style="color:#fff;">* 접수된 문의는 담당자 배정 후 상담이 진행됩니다. * 어떤 문의든 신속하고 친절한 상담을 약속드립니다.</p>
-												</td>
-											</tr>
-										</tbody>
-									</table>
+									<p class="txt">
+										접수된 문의는 담당자 배정 후, 상담이 진행됩니다.<br/>신속하고 친절한 상담을 약속드립니다.<br/></br>
+										대표번호 : 1899-2422(연결 1)  /  031-780-1500 (직통) <br/>전화 상담 가능 시간 : 8:50 AM~18:00 PM(점심시간 11:50 AM~13:00 PM)
+									</p>
 								</div>
 							</div>
-							</a>
+							<!-- </a> -->
 						</div>
 					</div>
 				</div>
-				<!-- //section 7 -->
-				<!-- section 8 -->
-				<div id="section8" class="section fp-auto-height">
+				<div id="section5" class="section fp-auto-height">
 					<!-- dFoot -->
 					<%@ include file="/WEB-INF/jsp/brand/include/brandfooter.jsp"%>
 					<!--// dFoot -->
@@ -318,13 +275,10 @@
 			<!-- right-nav -->
 			<!-- 20190318 수정 s -->
 			<ul class="right-nav">
-				<li data-menuanchor="firstPage"><a href="#firstPage"><span>홈</span></a></li>
-				<li data-menuanchor="secondPage"><a href="#secondPage"><span>브랜드</span></a></li>
-				<li data-menuanchor="thirdPage"><a href="#thirdPage"><span>메뉴</span></a></li>
-				<li data-menuanchor="fourthPage"><a href="#fourthPage"><span>서비스</span></a></li>
-				<li data-menuanchor="fifthPage"><a href="#fifthPage"><span>사회공헌</span></a></li>
-				<li data-menuanchor="sixthPage"><a href="#sixthPage"><span>SNS</span></a></li>
-				<li data-menuanchor="seventhPage"><a href="#seventhPage"><span>커뮤니티</span></a></li>
+				<li data-menuanchor="firstPage"><a href="#firstPage"><span>HOME</span></a></li>
+				<li data-menuanchor="secondPage"><a href="#secondPage"><span>PHOSEASON INC.<br/>MENU</span></a></li>
+				<li data-menuanchor="thirdPage"><a href="#thirdPage"><span>가맹개설</span></a></li>
+				<li data-menuanchor="fourthPage"><a href="#fourthPage"><span>SNS</span></a></li>
 			</ul>
 			<!-- //20190318 수정 e -->
 			<!-- <ul class="right-nav">
@@ -398,6 +352,20 @@
 		pauseOnHover:false,
 		pauseOnFocus:false
 	});
+ 	
+ 	//sns 슬라이더
+ 	var swiper = new Swiper('.sns_slider', {
+      slidesPerView: 5,
+      spaceBetween: 19,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+      },
+    });
 
  // 20190318 추가 s
 	$('.slick-dots > li').on('mouseenter', function(){

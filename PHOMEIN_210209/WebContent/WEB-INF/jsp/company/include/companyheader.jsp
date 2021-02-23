@@ -3,50 +3,96 @@
 		<!-- header_wrap -->
 		<div class="header-wrap">
 			<div class="inner">
-				<h1><a href="/company/main/main.do">DAILYKING</a></h1>
+				<h1><a href="/brand/main/main.do">PHOMEIN</a></h1>
 				<nav id="gnb">
 					<ul>
 						<li>
-							<a href="/company/company/dailyking.do">회사소개</a>
+							<a href="/company/company/dailyking.do">COMPANY</a>
 							<ul>
 								<li><a href="/company/company/dailyking.do">(주)데일리킹</a></li>
-								<li><a href="/brand/main/main.do">포메인 사이트</a></li>
-								<li><a href="/company/company/phomein.do">포메인</a></li>
-								<li><a href="/company/franchisee/red.do">포메인 RED</a></li>
-								<!--<li><a href="/company/company/	brownsugar.do">패밀리 브랜드</a></li> -->
+								<li><a href="/company/rnd/phoseason.do">PHOSEASON INC.</a></li>
 								<li><a href="/company/company/ceo.do">CEO 인사말</a></li>
-								<li><a href="/company/company/location.do">오시는 길</a></li>
-							</ul>
-						</li>
-						<li>
-							<a href="/company/rnd/phoseason.do">연구개발</a>
-							<ul>
-								<li><a href="/company/rnd/phoseason.do">포시즌</a></li>
 								<li><a href="/company/rnd/greenfood.do">현대그린푸드 MOU</a></li>
-								<li><a href="/company/rnd/educ.do">전문 교육장</a></li>
+								<li><a href="/company/csr/phoever.do">사회공헌활동</a></li>
+								<!-- <li><a href="/brand/main/main.do">포메인 사이트</a></li>
+								<li><a href="/company/company/phomein.do">포메인</a></li>
+								<li><a href="/company/franchisee/red.do">포메인 RED</a></li> -->
+								<!--<li><a href="/company/company/	brownsugar.do">패밀리 브랜드</a></li> -->
+								
+								<!-- <li><a href="/company/company/location.do">오시는 길</a></li> -->
 							</ul>
 						</li>
 						<li>
-							<a href="/company/franchisee/step01.do">가맹개설정보</a>
+							<a href="/company/company/phomein.do">BRAND</a>
+							<ul>
+								<li><a href="/company/company/phomein.do">포메인</a></li>
+								<li><a href="/company/franchisee/red.do">포메인 레드</a></li>
+							</ul>
+						</li>
+						<!-- <li>
+							<a href="/brand/phomein/about.do">PHOMEIN</a>
+							<ul>
+								<li><a href="/brand/phomein/about.do">브랜드 소개</a></li>
+								<li><a href="/company/franchisee/terms.do">가맹 상담</a></li>
+								<li><a href="/brand/phomein/phoever.do">CSR</a></li>
+								<li><a href="/brand/phomein/member_ship.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_01.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_02.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_03.do">멤버십</a></li>
+								<li style="display:none;"><a href="/brand/phomein/mileage_04.do">멤버십</a></li>
+								<li><a href="/brand/phomein/coupon_01.do">상품권</a></li>
+								<li style="display:none;"><a href="/brand/phomein/coupon_02.do">상품권</a></li>
+								<li style="display:none;"><a href="/brand/phomein/coupon_03.do">상품권</a></li>
+							</ul>
+						</li> -->
+						<li>
+							<a href="/brand/menu/menu_list.do">MENU</a>
+							<ul>
+								<li><a href="/brand/menu/menu_list.do">메뉴</a></li>
+								<li><a href="/company/franchisee/rice.do">국내유일 햅쌀면</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="/brand/store/store_best.do">STORE</a>
+							<ul>
+<!-- 								<li><a href="/brand/store/store_best.do">2018 모범매장</a></li>
+								<li><a href="/brand/store/interview.do">우수매장</a></li> -->
+								<li><a href="/brand/store/store_list.do">매장찾기</a></li>
+								<li><a href="/brand/store/store_list.do">딜리버리 서비스</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="/company/franchisee/step01.do">FRANCHISE</a>
 							<ul>
 								<li><a href="/company/franchisee/step01.do">가맹 안내</a></li>
 								<!-- <li><a href="/company/franchisee/estimate.do">가맹 비용</a></li> -->
-								<li><a href="/company/franchisee/interior.do">인테리어</a></li>
-								<!-- <li><a href="/company/franchisee/interview.do">우수매장</a></li> -->
 								<li><a href="/company/franchisee/terms.do">가맹 상담 신청</a></li>
+								<li><a href="/company/franchisee/terms.do">연구개발</a></li>
+								<!-- <li><a href="/company/franchisee/interview.do">우수매장</a></li> -->
+								
 							</ul>
 						</li>
 						<li>
-							<a href="/company/csr/phoever.do">사회공헌</a>
+							<a href="/brand/community/notice/community_list.do">COMMUNITY</a>
 							<ul>
-								<li><a href="/company/csr/phoever.do">CSR</a></li>
+								<li><a href="/brand/community/sns/community_list.do">인스타그램</a></li>
+								<li><a href="/brand/community/sns/community_list.do">블로그</a></li>
+								<li><a href="/brand/community/sns/community_list.do">유튜브</a></li>
+								<li><a href="/brand/community/notice/community_list.do">공지 & 언론보도</a></li>
+								<li><a href="/brand/phomein/coupon_01.do">상품권</a></li>
+								<li><a href="/brand/phomein/member_ship.do">멤버십</a></li>
+								<!-- <li><a href="/brand/community/event/community_list.do">EVENT</a></li> -->
+								
+								<!-- <li style="display:none;"><a href="/brand/community/notice/community_view.do">공지 & 언론보도</a></li>
+								<li style="display:none;"><a href="/brand/community/event/community_view.do">EVENT</a></li>
+								<li style="display:none;"><a href="/brand/community/sns/community_view.do">SNS</a></li> -->
 							</ul>
 						</li>
 					</ul>
 				</nav>
 				<div class="btn-franchisee">
-					<a href="/brand/main/main.do" target="_self">브랜드 사이트</a>
-					<a href="/company/main/main.do" target="_self">기업 사이트</a>
+					<a href="/company/franchisee/terms.do" target="_self">가맹점 모집</a>
+					<!-- <a href="/company/main/main.do" target="_self">기업 사이트</a> -->
 				</div>
 				<div class="btn-system2">
 				<a href="/admin/login.do">포메인 시스템</a>
@@ -54,7 +100,7 @@
 			</div>
 
 			<!-- btn-country -->
-			<div class="btn-country">
+			<!-- <div class="btn-country">
 				<a href="#">country</a>
 				<div class="list">
 					<ul>
@@ -63,6 +109,11 @@
 						<li><a href="/jpn/main/main.do">JPN</a></li>
 					</ul>
 				</div>
+			</div> -->
+			<div class="link_sys">
+				<a href="/admin/login.do">
+					<img src="/brand/images/tmp/link_sys.png" alt="" />
+				</a>
 			</div>
 			<!-- //btn-country -->
 
@@ -114,8 +165,8 @@
     background-color: transparent;
 }
 </style>
-<div id="resizable" class="ui-widget-content" style="z-index: 1001;">
+<!-- <div id="resizable" class="ui-widget-content" style="z-index: 1001;">
 	<a href="/brand/main/main.do"><img style="margin-bottom:10px;" src="/brand/images/icon/right_fixed_ico04.png"></a>
 	<a href="/company/franchisee/red.do"><img style="margin-bottom:10px;" src="/brand/images/icon/right_fixed_ico02.png"></a>
 	<a href="/company/franchisee/terms.do"><img src="/brand/images/icon/right_fixed_ico03.png"></a>
-</div>
+</div> -->
