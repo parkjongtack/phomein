@@ -75,9 +75,9 @@
 						<li>
 							<a href="/brand/community/notice/community_list.do">COMMUNITY</a>
 							<ul>
-								<li><a href="/brand/community/sns/community_list.do">인스타그램</a></li>
-								<li><a href="/brand/community/sns/community_list.do">블로그</a></li>
-								<li><a href="/brand/community/sns/community_list.do">유튜브</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109203">인스타그램</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109204">블로그</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109205">유튜브</a></li>
 								<li><a href="/brand/community/notice/community_list.do">공지 & 언론보도</a></li>
 								<li><a href="/brand/phomein/coupon_01.do">상품권</a></li>
 								<li><a href="/brand/phomein/member_ship.do">멤버십</a></li>
@@ -126,6 +126,21 @@
 	<script>
 	$(document).ready(function () {
 		var url = $(location).attr("pathname");
+		
+		function getParameter(name) {
+		    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+		        results = regex.exec(location.search);
+		    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+		
+		//console.log(url);
+		var params_name = getParameter("cate");
+		console.log(params_name);
+		if(url.indexOf('/sns/community_list') != -1){
+			url = url+'?cate='+params_name;
+		}
+		
 		$("#gnb ul li ul li a").each(function(index) {
 			var $this = $(this);
 

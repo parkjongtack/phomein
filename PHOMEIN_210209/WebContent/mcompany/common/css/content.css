@@ -3,7 +3,7 @@
 /* sprite image */
 
 /* 공통 */
-
+img{max-width: 100%;}
 
 /* 회사소개 */
 .company .phomein_title {padding-bottom:40px;text-align:center;}
@@ -25,6 +25,10 @@
 .company .ceo_title .desc {padding-top:20px;color:#333;font-size:15px;line-height:18px;font-weight:500;}
 .company .ceo_intro {position:relative;margin:0 -20px -123px;;padding:45px 0 80px 0;background:#fafafa;text-align:center;}
 .company .ceo_intro:after {content:'';display:block;position:absolute;top:-30px;;left:50%; width:1px;height:60px;background:#aa8f63;}
+.company .ceo_intro h5{font-size: 16px; line-height: 25px; font-weight: 400; color: #000;}
+.company .ceo_intro h5:before{content: "“"; display:block; font-size: 22px;}
+.company .ceo_intro h5:after{content: "”"; display:block; font-size: 22px;}
+.company .ceo_intro h5 em{font-weight: 500;}
 .company .ceo_intro .txt01 {color:#666;font-size:12px;line-height:20px;}
 .company .ceo_intro .txt02 {margin:20px 0; color:#546220;font-size:17.5px;line-height:24px;font-weight:500;}
 .company .ceo_intro .txt03 {color:#666;font-size:12px;line-height:20px;}

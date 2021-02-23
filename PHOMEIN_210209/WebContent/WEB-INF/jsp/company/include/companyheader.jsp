@@ -130,6 +130,21 @@
 <script>
 	$(document).ready(function () {
 		var url = $(location).attr("pathname");
+		
+		function getParameter(name) {
+		    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+		        results = regex.exec(location.search);
+		    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+		
+		//console.log(url);
+		var params_name = getParameter("cate");
+		console.log(params_name);
+		if(url.indexOf('/sns/community_list') != -1){
+			url = url+'?cate='+params_name;
+		}
+		
 		$("#gnb" ).each(function( index ) {
 			$(this).find('ul li a').each(function(index) {
 				if($(this).attr("href") == url){

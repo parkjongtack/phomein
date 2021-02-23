@@ -70,9 +70,9 @@
 							<a href="javascript:;" class="nav-title">COMMUNITY</a>
 							<dd style="display:none;">COMMUNITY</dd>
 							<ul class="nav-list">
-								<li><a href="/brand/community/sns/community_list.do">인스타그램</a></li>
-								<li><a href="/brand/community/sns/community_list.do">블로그</a></li>
-								<li><a href="/brand/community/sns/community_list.do">유튜브</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109203">인스타그램</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109204">블로그</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109205">유튜브</a></li>
 								<li><a href="/brand/community/notice/community_list.do">공지 & 언론보도</a></li>
 								<li><a href="/brand/phomein/coupon_01.do">상품권</a></li>
 								<li style="display:none;"><a href="/brand/phomein/coupon_02.do">상품권</a></li>
@@ -112,10 +112,19 @@
 	$(document).ready(function () {
 		var url = fnParsingUrl($(location).attr("pathname"));
 		
-		console.log(url);
+		function getParameter(name) {
+		    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+		        results = regex.exec(location.search);
+		    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+		
+		//console.log(url);
+		var user_name = getParameter("cate");
+		console.log(user_name);
 		
 		$(".depth02 ul li a").each(function(index) {
-			console.log($(this).attr("href"));//
+			//console.log($(this).attr("href"));//
 			if($(this).attr("href") == url){
 				$(this).parent("li").attr("class", "actived"); // depth02 active
 				$(this).closest(".depth02").show(); // depth02 show

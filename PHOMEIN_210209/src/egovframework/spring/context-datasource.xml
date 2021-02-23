@@ -10,9 +10,12 @@
 	<!-- 	REAL-->	
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-        <property name="url" value="jdbc:mysql://121.254.168.67:3306/dbdailyking?useSSL=false&amp;characterEncoding=utf8&amp;noAccessToProcedureBodies=true&amp;useInformationSchema=true&amp;autoReconnection=true&amp;failOverReadOnly=false&amp;maxReconnects=10" />
-        <property name="username" value="dailyking"/>
-        <property name="password" value="daily8362!"/>
+        <!-- <property name="url" value="jdbc:mysql://121.254.168.67:3306/dbdailyking?useSSL=false&amp;characterEncoding=utf8&amp;noAccessToProcedureBodies=true&amp;useInformationSchema=true&amp;autoReconnection=true&amp;failOverReadOnly=false&amp;maxReconnects=10" /> -->
+        <property name="url" value="jdbc:mysql://127.0.0.1:3306/dbdailyking?useSSL=false&amp;characterEncoding=utf8&amp;noAccessToProcedureBodies=true&amp;useInformationSchema=true&amp;autoReconnection=true&amp;failOverReadOnly=false&amp;maxReconnects=10" />
+        <!-- <property name="username" value="dailyking"/>
+        <property name="password" value="daily8362!"/> -->
+        <property name="username" value="root"/>
+        <property name="password" value="1q2w3e4r!"/>
         <property name="validationQuery" value="select 1"/>
     </bean>
      

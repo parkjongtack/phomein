@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 	<footer id="footer">
 		<!-- family-site -->
-		<!-- <div class="family-site">
+		<div class="family-site">
 			<a href="#">FAMILY SITE</a>
 			<div class="list">
 				<ul>
@@ -10,13 +10,13 @@
 					<li><a href="#">사이트 3</a></li>
 				</ul>
 			</div>
-		</div> -->
+		</div>
 		<!-- //family-site -->
 		<ul class="foot_menu">
-			<li><a href="/mbrand/cs_center/cs_terms.do">고객의 소리</a></li>
-			<li><a href="/mbrand/phomein/mileage_01.do">마일리지 조회</a></li>
-			<li><a href="/mbrand/phomein/coupon_01.do">상품권 구매</a></li>
-			<li><a href="http://www.phomein.com/store/login.do">인트라넷</a></li>
+			<li><a href="/mbrand/cs_center/cs_terms.do">브랜드 제휴 문의</a></li>
+			<li><a href="/mcompany/franchisee/terms.do">가맹문의</a></li>
+			<li><a href="/admin/login.do">포메인 지원 시스템</a></li>
+			<!-- <li><a href="http://www.phomein.com/store/login.do">인트라넷</a></li> -->
 		</ul>
 		<p class="copyright">
 			가맹문의  대표번호: 1899-2422(연결 1번)<br>

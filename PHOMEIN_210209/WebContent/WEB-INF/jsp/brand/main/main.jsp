@@ -191,7 +191,7 @@
 										<c:when test="${not empty snsList }" >
 											<c:forEach items="${snsList }" var="result" varStatus="status" >
 												<c:if test="${status.index < 12 }">
-													<li class=<c:if test="${result.cate == '109201' }">"ico-f"</c:if><c:if test="${result.cate == '109202' }">"ico-b"</c:if><c:if test="${result.cate == '109203' }">"ico-i swiper-slide"</c:if> >
+													<li class=<c:if test="${result.cate == '109205' }">"ico-y"</c:if><c:if test="${result.cate == '109204' }">"ico-b"</c:if><c:if test="${result.cate == '109203' }">"ico-i swiper-slide"</c:if> >
 														<p class="img"><img alt="" src="${result.pc_thimg }"></p>
 														<a href="${result.url}" target="_blank">
 														<span class="icon"></span>
