@@ -53,12 +53,12 @@
 							</ul>
 						</li>
 						<li>
-							<a href="/brand/store/store_best.do">STORE</a>
+							<a href="/brand/store/store_list.do">STORE</a>
 							<ul>
 <!-- 								<li><a href="/brand/store/store_best.do">2018 모범매장</a></li>
 								<li><a href="/brand/store/interview.do">우수매장</a></li> -->
 								<li><a href="/brand/store/store_list.do">매장찾기</a></li>
-								<li><a href="/brand/store/store_list.do">딜리버리 서비스</a></li>
+								<li><a href="/company/franchisee/delivery.do">딜리버리 서비스</a></li>
 							</ul>
 						</li>
 						<li>
@@ -67,7 +67,7 @@
 								<li><a href="/company/franchisee/step01.do">가맹 안내</a></li>
 								<!-- <li><a href="/company/franchisee/estimate.do">가맹 비용</a></li> -->
 								<li><a href="/company/franchisee/terms.do">가맹 상담 신청</a></li>
-								<li><a href="/company/franchisee/terms.do">연구개발</a></li>
+								<li><a href="/company/rnd/educ.do">교육시스템</a></li>
 								<!-- <li><a href="/company/franchisee/interview.do">우수매장</a></li> -->
 								
 							</ul>
@@ -75,9 +75,9 @@
 						<li>
 							<a href="/brand/community/notice/community_list.do">COMMUNITY</a>
 							<ul>
-								<li><a href="/brand/community/sns/community_list.do">인스타그램</a></li>
-								<li><a href="/brand/community/sns/community_list.do">블로그</a></li>
-								<li><a href="/brand/community/sns/community_list.do">유튜브</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109203">인스타그램</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109204">블로그</a></li>
+								<li><a href="/brand/community/sns/community_list.do?cate=109205">유튜브</a></li>
 								<li><a href="/brand/community/notice/community_list.do">공지 & 언론보도</a></li>
 								<li><a href="/brand/phomein/coupon_01.do">상품권</a></li>
 								<li><a href="/brand/phomein/member_ship.do">멤버십</a></li>
@@ -91,7 +91,7 @@
 					</ul>
 				</nav>
 				<div class="btn-franchisee">
-					<a href="/company/franchisee/terms.do" target="_self">가맹점 모집</a>
+					<a href="/company/franchisee/terms.do" target="_self">가맹문의</a>
 					<!-- <a href="/company/main/main.do" target="_self">기업 사이트</a> -->
 				</div>
 				<div class="btn-system2">
@@ -110,17 +110,17 @@
 					</ul>
 				</div>
 			</div> -->
-			<div class="link_sys">
+			<!-- <div class="link_sys">
 				<a href="/admin/login.do">
 					<img src="/brand/images/tmp/link_sys.png" alt="" />
 				</a>
-			</div>
+			</div> -->
 			<!-- //btn-country -->
 
 			<!-- btn-system -->
-			<div class="btn-system">
+			<!-- <div class="btn-system">
 				<a href="/admin/login.do">포메인 시스템</a>
-			</div>
+			</div> -->
 			<!-- //btn-system -->
 		</div>
 		<!-- //header_wrap -->

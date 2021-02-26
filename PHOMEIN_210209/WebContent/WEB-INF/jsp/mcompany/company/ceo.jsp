@@ -29,7 +29,7 @@
 	<!-- container -->
 	<div id="container">
 		<!-- sub visual -->
-		<div class="sub_visual sv1">
+		<div class="sub_visual sv1" style="background-image: url('/mcompany/common/images/content/img_sv1_3.jpg');">
 			<h3>CEO 인사말</h3>
 		</div>
 		<!-- 상단비쥬얼 영역

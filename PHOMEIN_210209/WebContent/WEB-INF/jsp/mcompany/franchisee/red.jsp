@@ -208,7 +208,7 @@ line-height: 1; letter-spacing: -0.5px; font-weight: 400;}
 		<!-- content -->
 		<div id="content" class="franchisee">
 			<div class="video_con" style="text-align:center;">
-				<iframe width="330" height="200" src="https://www.youtube.com/embed/pOWY4_QVyFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe width="330" height="186" src="https://www.youtube.com/embed/De_4ozeCBd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 			<div class="red-con">
 				<div class="red-title">
@@ -547,7 +547,7 @@ line-height: 1; letter-spacing: -0.5px; font-weight: 400;}
 									<li>
 										<img src="../images/red/red9-icon1.png" alt="">
 										<b>간략한 자기소개 부탁드립니다.</b>
-										<p>포메인을 운영하다 지난 11월 포메인 레드 1호 도곡점을 오픈한 김지현 점주입니다.</p>
+										<p>포메인을 운영하다 2019년 지난 11월 포메인 레드 1호 도곡점을 오픈한 김지현 점주입니다.</p>
 									</li>
 									<li>
 										<img src="../images/red/red9-icon1.png" alt="">

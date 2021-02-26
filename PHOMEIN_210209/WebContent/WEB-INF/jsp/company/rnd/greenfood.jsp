@@ -33,7 +33,7 @@
 	<section id="dBody" class="rnd">
 		<!-- page-title -->
 		<div class="page-title">
-			<div class="visual" style="background-image:url('../images/content/sub_visual_02.jpg');"></div>
+			<div class="visual" style="background-image:url('/brand/images/sub/bg_02.png');"></div>
 			<h2 class="h2-type">현대그린푸드MOU</h2>
 			<span class="txt">포메인은 ‘안전한 식재료∙정직한 먹거리’를 약속하며<br>포메인만의 특별한 차이를 만들어갑니다.</span>
 		</div>
@@ -67,8 +67,9 @@
 	<!-- 20190318 수정 s -->
 	<!-- 메인 페이지 반영 제외 -->
 	<div class="quick-menu">
-		<a href="/brand/main/main.do" target="_blank" class="btn-brand">브랜드</a>
-		<a href="/company/franchisee/step01.do" class="btn-franchisee">가맹 안내</a>
+		<a href="/company/franchisee/rice.do" class="btn-menu">국내유일 햅쌀면</a>
+		<a href="/company/franchisee/terms.do" target="_blank" class="btn-company">가맹 상담</a>
+		<a href="/brand/store/store_list.do" target="_blank" class="btn-franchisee">매장 찾기</a>
 		<a href="javascript:front.common.moveScroll(0, 750);" class="btn-top">TOP</a>
 	</div>
 	<!-- //20190318 수정 e -->

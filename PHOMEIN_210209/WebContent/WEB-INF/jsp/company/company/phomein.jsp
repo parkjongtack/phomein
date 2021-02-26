@@ -33,7 +33,7 @@
 	<section id="dBody" class="company">
 		<!-- page-title -->
 		<div class="page-title">
-			<div class="visual" style="background-image:url('../images/content/sub_visual_01.jpg');"></div>
+			<div class="visual" style="background-image:url('/brand/images/sub/bg_04.png');"></div>
 			<h2 class="h2-type">포메인</h2>
 			<!-- <span class="txt">따뜻한 세상을 희망하는 포메인의 나눔은 계속 됩니다.<br>포메인이 전하는 따뜻한 온기</span> -->
 		</div>
@@ -53,7 +53,7 @@
 
 				<div class="inner02">
 					<div class="page-box">
-						<p class="txt01 load-fadein">올해 14주년을 맞이한 포메인은 한국인의 입맛에 맞는 레시피 개발로<br>국내 베트남 쌀국수 대중화를 이끈 대한민국 대표 쌀국수 전문 브랜드입니다.</p>
+						<p class="txt01 load-fadein">올해 15주년을 맞이한 포메인은 한국인의 입맛에 맞는 레시피 개발로<br>국내 베트남 쌀국수 대중화를 이끈 대한민국 대표 쌀국수 전문 브랜드입니다.</p>
 						<p class="txt02 load-fadein">국내 130여 개의 매장을 보유한 포메인은 현대그린푸드와의 ‘안전한 식자재 공급’ MOU 체결, <br>베트남 현지 법인 공장 포시즌(PHO SEASON) 설립을 통한 햅쌀 쌀국수 개발 및 제조로 <br>‘안전한 식재료∙정직한 먹거리’ 약속을 지켜가고 있습니다.</p>
 						<p class="img"><img src="../images/content/brand_menu_img.jpg" alt="쌀국수 이미지" class="load-fadein"/></p>
 					</div>
@@ -70,8 +70,9 @@
 	<!-- 20190318 수정 s -->
 	<!-- 메인 페이지 반영 제외 -->
 	<div class="quick-menu">
-		<a href="/brand/main/main.do" target="_blank" class="btn-brand">브랜드</a>
-		<a href="/company/franchisee/step01.do" class="btn-franchisee">가맹 안내</a>
+		<a href="/company/franchisee/rice.do" class="btn-menu">국내유일 햅쌀면</a>
+		<a href="/company/franchisee/terms.do" target="_blank" class="btn-company">가맹 상담</a>
+		<a href="/brand/store/store_list.do" target="_blank" class="btn-franchisee">매장 찾기</a>
 		<a href="javascript:front.common.moveScroll(0, 750);" class="btn-top">TOP</a>
 	</div>
 	<!-- //20190318 수정 e -->

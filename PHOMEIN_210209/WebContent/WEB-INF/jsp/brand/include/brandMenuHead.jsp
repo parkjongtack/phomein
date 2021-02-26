@@ -43,6 +43,7 @@
 							<dd style="display:none;">MENU</dd>
 							<ul class="nav-list">
 								<li><a href="/brand/menu/menu_list.do">메뉴</a></li>
+								<li style="display: none;"><a href="/brand/menu/red_menu_list.do">메뉴</a></li>
 								<li><a href="/company/franchisee/rice.do">국내유일 햅쌀면</a></li>
 							</ul>
 						</li>
@@ -63,7 +64,7 @@
 								<li style="display:none;"><a href="/company/franchisee/step03.do">가맹 안내</a></li>
 								<li><a href="/company/franchisee/terms.do">가맹 상담 신청</a></li>
 								<li style="display:none;"><a href="/company/franchisee/info.do">가맹 상담 신청</a></li>
-								<li><a href="/company/franchisee/terms.do">연구개발</a></li>
+								<li><a href="/company/rnd/educ.do">교육시스템</a></li>
 							</ul>
 						</li>
 						<li class="depth02" style="display:none;">

@@ -45,7 +45,7 @@
 							<div class="cont">
 								<div class="con" style="">
 									<span class="tit" style="font-size:32px; line-height:52px;"><em style="padding-bottom:15px;">소규모 프리미엄 쌀국수 브랜드</em>포메인 RED</span>
-									<span class="desc" style="font-size:15px;">포메인 레드는 2014년 국내 최초<br/>딜리버리 서비스로 쌓은 노하우를기반으로<br/>안정적인 창업환경과 높은 영업이익률을<br/>보장합니다.</span>
+									<span class="desc" style="font-size:15px;">포메인 레드는 2014년 국내 최초<br/>딜리버리 서비스로 쌓은 노하우를 기반으로<br/>안정적인 창업환경과 높은 영업이익률을<br/>보장합니다.</span>
 									<!-- <a href="http://www.phomein.com/company/franchisee/red.do" style="display:inline-block; margin-top:50px; padding:11px 21px; background-color:#8a382c; color:#fff; font-size:15px;">브랜드 스토리 확인</a> -->
 								</div>
 							</div>
@@ -104,14 +104,15 @@
 							베트남 쌀국수 전문점 운영 노하우와 경쟁력을<br/>
 							보유한 대한민국 대표 쌀국수 전문 브랜드입니다.
 						</span>
+						<p>대표 번호 <a href="tel:1899-2422">1899-2422</a>(연결1)<br/>직통 번호 <a href="tel:031-780-1500">031-780-1500</a></p>
 					</div>
 				</div>
 				<div class="conb">
 					<div class="con">
 						<ul>
-							<li><a href="/mcompany/rnd/phoseason.do" class="link"><span>브랜드 파워</span></a></li>
-							<li><a href="/mcompany/rnd/greenfood.do" class="link"><span>연구개발</span></a></li>
-							<li><a href="/mcompany/rnd/educ.do" class="link"><span>가맹 상담</span></a></li>
+							<li><a href="/mcompany/franchisee/step01.do" class="link"><span>브랜드 파워</span></a></li>
+							<li><a href="/mcompany/rnd/educ.do" class="link"><span>교육시스템</span></a></li>
+							<li><a href="/mcompany/franchisee/terms.do" class="link"><span>가맹 상담</span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -121,22 +122,24 @@
 					<div class="con">
 						<span class="tit">SNS</span>
 						<div class="sns_box">
-							<a href="/mbrand/community/sns/community_list.do?cate=109203">
+							<a href="/mbrand/community/sns/community_list.do?cate=109205">
 								<img src="/mbrand/common/images/main/sns_ico1.png" alt="" />
 							</a>
 							<a href="/mbrand/community/sns/community_list.do?cate=109203">
 								<img src="/mbrand/common/images/main/sns_ico2.png" alt="" />
 							</a>
-							<a href="/mbrand/community/sns/community_list.do?cate=109203">
+							<a href="/mbrand/community/sns/community_list.do?cate=109204">
 								<img src="/mbrand/common/images/main/sns_ico3.png" alt="" />
 							</a>
 						</div>
-						<ul>
+						<ul id="snsUl">
 							<c:choose>
 								<c:when test="${not empty snsList }" >
 									<c:forEach items="${snsList }" var="result" varStatus="status" >
 										<c:if test="${status.index < 3 }">
-											<li><a href="${result.url}"><img alt="" src="${result.m_thimg }"></a></li>
+											<li class=<c:if test="${result.cate == '109205' }">"ico_you"</c:if><c:if test="${result.cate == '109204' }">"ico_blo"</c:if><c:if test="${result.cate == '109203' }">"ico_ins"</c:if> >
+												<a href="${result.url}"><img alt="" src="${result.m_thimg }"></a>
+											</li>
 										</c:if>
 									</c:forEach>
 								</c:when>

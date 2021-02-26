@@ -46,7 +46,12 @@
 		<!-- contents -->
 		<div id="contents" class="content">
 			<div class="inner">
-
+				<div class="page-tab">
+					<ul>
+               			<li><a href="/brand/menu/menu_list.do">포메인</a></li>
+               			<li class="actived"><a href="/brand/menu/red_menu_list.do">포메인 레드</a></li>
+					</ul>
+				</div>
 				<div class="search-option">
 					<div class="option">
 						<P class="all-menu"><a id="reset_btn" name="reset_btn" class="btn-03 type-01">전체 메뉴</a></p>
@@ -124,9 +129,9 @@
 	<!-- 20190318 수정 s -->
 	<!-- 메인, 매장찾기 페이지 반영 제외 -->
 	<div class="quick-menu">
-		<a href="/brand/menu/menu_list.do" class="btn-menu">포메인 메뉴</a>
-		<a href="/company/main/main.do" target="_blank" class="btn-company">프랜차이즈</a>
-		<a href="/company/franchisee/step01.do" target="_blank" class="btn-franchisee">가맹 안내</a>
+		<a href="/company/franchisee/rice.do" class="btn-menu">국내유일 햅쌀면</a>
+		<a href="/company/franchisee/terms.do" target="_blank" class="btn-company">가맹 상담</a>
+		<a href="/brand/store/store_list.do" target="_blank" class="btn-franchisee">매장 찾기</a>
 		<a href="javascript:front.common.moveScroll(0, 750);" class="btn-top">TOP</a>
 	</div>
 	<!-- //20190318 수정 e -->

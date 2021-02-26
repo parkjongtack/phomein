@@ -33,7 +33,7 @@
 	<section id="dBody" class="franchisee">
 		<!-- page-title -->
 		<div class="page-title">
-			<div class="visual" style="background-image:url('../images/content/sub_visual_03.jpg');"></div>
+			<div class="visual" style="background-image:url('/brand/images/sub/bg_07.png');"></div>
 			<h2 class="h2-type">가맹안내</h2>
 			<span class="txt">포메인의 철학과 성공 노하우로 안정적인 창업을 지원합니다.</span>
 		</div>
@@ -112,8 +112,9 @@
 	<!-- 20190318 수정 s -->
 	<!-- 메인 페이지 반영 제외 -->
 	<div class="quick-menu">
-		<a href="/brand/main/main.do" target="_blank" class="btn-brand">브랜드</a>
-		<a href="/company/franchisee/step01.do" class="btn-franchisee">가맹 안내</a>
+		<a href="/company/franchisee/rice.do" class="btn-menu">국내유일 햅쌀면</a>
+		<a href="/company/franchisee/terms.do" target="_blank" class="btn-company">가맹 상담</a>
+		<a href="/brand/store/store_list.do" target="_blank" class="btn-franchisee">매장 찾기</a>
 		<a href="javascript:front.common.moveScroll(0, 750);" class="btn-top">TOP</a>
 	</div>
 	<!-- //20190318 수정 e -->

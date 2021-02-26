@@ -66,7 +66,7 @@
 					<div class="title">
 						<strong>SINCE 2006<em>대한민국 쌀국수의 기준</em></strong>
 						<p>
-							포메인은 지난 12년간 동종업계 타 브랜드들과의<br>
+							포메인은 지난 15년간 동종업계 타 브랜드들과의<br>
 							‘협력적 경쟁’을 통해 나 홀로 성장이 아닌 동반성장을 이끌어 낸 <br>
 							대한민국 대표 쌀국수 브랜드입니다.
 						</p>
@@ -74,9 +74,27 @@
 					<div class="con">
 						<span class="tit">대표연혁</span>
 						<ul>
-							<li>
+							<li class=""><div><em>2019.11</em><p>소규모 프리미엄 쌀국수 브랜드 포메인 RED<br/>(Rice noodle Express Delivery)<br/>강남 도곡 1호점 런칭을 시작으로 가맹사업 시작</p></div></li>
+							<li class=""><div><em>2019.04</em><p>세계 최초 햅쌀 쌀국수 자체 생산 및 포메인 전 매장 독점 납품</p></div></li>
+							<li class=""><div><em>2019.04</em><p>푸드뱅크, 1억 8천만 상당 햅쌀 쌀국수면 기부</p></div></li>
+							<li class=""><div><em>2018.06</em><p>(사)글로벌비전, 직업체험 멘토링 ‘PHO EVER 2018’ 진행</p></div></li>
+							<li class=""><div><em>2018.01</em><p>자체 개발 ‘배달 전용 패키지’ 특허 등록</p></div></li>
+							<li class=""><div><em>2017.12</em><p>가맹점 다점포율 29% 달성<br/>*다점포율: 1명의 가맹점주가 여러 개의 매장을 운영하는 비율<br/>포메인 가맹점 연간 총매출 780억 달성</p></div></li>
+							<li class=""><div><em>2017.09</em><p>포시즌(PHO SEASON)<br/>햅쌀 쌀국수 개발 성공 · 천연 향신료 허브백(Herb-Bags) 생산</p></div></li>
+							<li class=""><div><em>2016.09</em><p>포메인 누적 고객 방문자 수 5천만 명 달성</p></div></li>
+							<li class=""><div><em>2016.08</em><p>현대그린푸드 ‘안전한 식자재 공급’ MOU 체결</p></div></li>
+							<li class=""><div><em>2015.11</em><p>베트남 현지 법인 포시즌(PHO SEASON) 공장 준공</p></div></li>
+							<li class=""><div><em>2014.12</em><p>업계 최초 쌀국수 딜리버리 서비스 시행</p></div></li>
+							<li class=""><div><em>2014.04</em><p>업계 최초 모바일 커머스 플랫폼 ‘카카오톡 선물하기’ 입점</p></div></li>
+							<li class=""><div><em>2013.10</em><p>한국표준협회 선정 [2013 프랜차이즈 만족지수(KS-FSI)쌀국수 부문 1위]</p></div></li>
+							<li class=""><div><em>2013.03</em><p>‘납세자의 날’ 모범 납세자 선정, 국세청장 표창 수상</p></div></li>
+							<li class=""><div><em>2012.11</em><p>신한은행 ‘가맹점주를 위한 프랜차이즈론’ 협약 체결 </p></div></li>
+							<li class=""><div><em>2011.12</em><p>포메인 정자본점 확장 리뉴얼 및 R&D 연구소 신설</p></div></li>
+							<li class=""><div><em>2009.10</em><p>SK나이츠 프로농구단 5년 연속 후원(2009년~2013년)</p></div></li>
+							<li class=""><div><em>2006.05</em><p>포메인 분당 정자본점 오픈(직영점 운영중)<br/>㈜데일리킹 설립</p></div></li>
+							<!-- <li>
 								<div>
-									<em>2019.04</em>
+									<em>2019.11</em>
 									<p>세계 최초 햅쌀 쌀국수 <br>자체 생산 및 포메인 <br>전 매장 독점 납품</p>
 								</div>
 							</li>
@@ -151,7 +169,7 @@
 									<em>2006.05</em>
 									<p>포메인 분당 정자본점 오픈 (직영점 운영중)</p>
 								</div>
-							</li>
+							</li> -->
 						</ul>
 					</div>
 				</div>

@@ -1,13 +1,13 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 	<div id="gnb">
 		<div class="gnb_head">
-			<div class="lang">
+			<!-- <div class="lang">
 				<ul>
 					<li class="on"><a href="/mbrand/main/main.do">KOR</a></li>
 					<li><a href="/meng/main/main.do" target="_self">ENG</a></li>
 					<li><a href="/mjpn/main/main.do" target="_self">JPN</a></li>
 				</ul>
-			</div>
+			</div> -->
 		</div>
 		<div class="gnb_container">
 			<div class="inner">
@@ -34,6 +34,7 @@
 							<a href="#none">MENU</a>
 							<ul class="ea1 gnbs">
 								<li><a href="/mbrand/menu/menu_list.do">메뉴</a></li>
+								<li style="display: none;"><a href="/mbrand/menu/red_menu_list.do">메뉴</a></li>
 								<li><a href="/mcompany/franchisee/rice.do">국내유일 햅쌀면</a></li>
 							</ul>
 						</li>
@@ -52,7 +53,7 @@
 								<li style="display:none;"><a href="/mcompany/franchisee/step03.do">가맹 안내</a></li>
 								<li><a href="/mcompany/franchisee/terms.do">가맹 상담 신청</a></li>
 								<li style="display:none;"><a href="/mcompany/franchisee/info.do">가맹 상담 신청</a></li>
-								<li><a href="/mcompany/franchisee/terms.do">연구개발</a></li>
+								<li><a href="/mcompany/rnd/educ.do">교육시스템</a></li>
 							</ul>
 						</li>
 						<li>
@@ -72,7 +73,7 @@
 								<li style="display:none;"><a href="/mbrand/phomein/mileage_04.do">멤버십</a></li>
 							</ul>
 						</li>
-						<li>
+						<!-- <li>
 							<a href="#none">CS CENTER</a>
 							<ul class="ea1 gnbs">
 								<li><a href="/mbrand/cs_center/cs_terms.do">고객의 소리</a></li>
@@ -86,7 +87,7 @@
 								<li><a href="/mbrand/etc/privacy.do">개인정보취급방침</a></li>
 								<li><a href="/mbrand/etc/email.do">이메일무단수집거부</a></li>
 							</ul>
-						</li>
+						</li> -->
 					</ul>
 				</nav>
 				<!-- <div class="banner">

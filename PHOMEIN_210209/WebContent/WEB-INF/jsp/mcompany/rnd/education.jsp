@@ -30,7 +30,7 @@
 	<div id="container">
 		<!-- sub visual -->
 		<div class="sub_visual sv2">
-			<h3>전문교육장</h3>
+			<h3>교육시스템</h3>
 		</div>
 		<!-- 상단비쥬얼 영역
 			회사소개	: class="sub_visual sv1"
@@ -56,7 +56,7 @@
 					</p>
 				</div>
 				<div class="content">
-					<h5>체계적인 교육,<br>14년의 노하우 전수</h5>
+					<h5>체계적인 교육,<br>15년의 노하우 전수</h5>
 					<p class="txt">	
 						㈜데일리킹 전문교육장에서는 메뉴 조리법은 물론<br> 식자재 및 주방 위생 관리법, 고객 응대, POS 사용, 식자재 발주 등<br>
 						매장 운영에 있어 필요한 모든 사항을 배우고 익힐 수 있습니다.<br>

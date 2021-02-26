@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6, th {font-weight: 400;}
 	<section id="dBody" class="franchisee">
 		<!-- page-title -->
 		<div class="page-title">
-			<div class="visual" style="background-image:url('../images/content/sub_visual_03.jpg');"></div>
+			<div class="visual" style="background-image:url('/brand/images/sub/bg_05.png');"></div>
 			<h2 class="h2-type">포메인 RED</h2>
 			<span class="txt">소자본 쌀국수 창업 프랜차이즈의 새로운 패러다임을 제시합니다.</span>
 		</div>
@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6, th {font-weight: 400;}
 
 		<div id="contents" class="content">
 			<div class="video_con">
-				<iframe width="800" height="515" src="https://www.youtube.com/embed/pOWY4_QVyFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe width="800" height="515" src="https://www.youtube.com/embed/De_4ozeCBd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 			<div class="red-con">
 				<div class="con-title">
@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6, th {font-weight: 400;}
 						<div class="red01-inner">
 							<img src="../images/red/phomein-brown.png" alt="phomein">
 							<p>소자본 쌀국수 창업 프랜차이즈의<br/>새로운 패러다임을 제시합니다.</p>
-							<span>㈜데일리킹은 2006년 설립되어 국내에 쌀국수 프랜차이즈 브랜드 ‘포메인’을 정착시키고,<br/>베트남 요리 외식 문화를 대중화시킨 법인 기업입니다.<br/>또한 변화하는 트렌드와 시장 환경에 맞춰 소자본 창업 브랜드 ‘포메인 RED’를 런칭하였습니다.<br/><br/>투명한 경영방침으로 14년 동안 ‘포메인’을 운영해온 프랜차이즈 전문 기업 ㈜데일리킹이 만든 브랜드로<br/>업계 1위 장수 브랜드의 노하우와 견고한 운영체계가 결집된 ‘확실한 경쟁력’을 보장합니다.</span>
+							<span>㈜데일리킹은 2006년 설립되어 국내에 쌀국수 프랜차이즈 브랜드 ‘포메인’을 정착시키고,<br/>베트남 요리 외식 문화를 대중화시킨 법인 기업입니다.<br/>또한 변화하는 트렌드와 시장 환경에 맞춰 소자본 창업 브랜드 ‘포메인 RED’를 런칭하였습니다.<br/><br/>투명한 경영방침으로 15년 동안 ‘포메인’을 운영해온 프랜차이즈 전문 기업 ㈜데일리킹이 만든 브랜드로<br/>업계 1위 장수 브랜드의 노하우와 견고한 운영체계가 결집된 ‘확실한 경쟁력’을 보장합니다.</span>
 						</div>
 					</div>
 					<div class="red02-wrap red02-bg">
@@ -277,9 +277,9 @@ h1, h2, h3, h4, h5, h6, th {font-weight: 400;}
 					<div class="red04-wrap">
 						<div class="red04-inner clear">
 							<div class="red04-left">
-								<p>포메인 RED,<br/>트렌드에 녹여낸 14년 노하우</p>
+								<p>포메인 RED,<br/>트렌드에 녹여낸 15년 노하우</p>
 								<span>메뉴 개발, 인테리어, 입지 선정 등 더욱 엄격해진 기준과<br/>
-								프랜차이즈 브랜드 14년 운영 노하우를 뒷받침으로<br/>
+								프랜차이즈 브랜드 15년 운영 노하우를 뒷받침으로<br/>
 								가맹점주님들의 성공적인 미래를 준비합니다.</span>
 							</div>
 							<div class="red04-right">
@@ -319,7 +319,7 @@ h1, h2, h3, h4, h5, h6, th {font-weight: 400;}
 										</td>
 										<td class="td-icon">
 											<img src="../images/red/red05-tbl-img02.png" alt="아이콘">
-											<p class="m2">프랜차이즈 브랜드 ‘포메인’ 보유<br/><b>14년 운영 업력</b></p>
+											<p class="m2">프랜차이즈 브랜드 ‘포메인’ 보유<br/><b>15년 운영 업력</b></p>
 										</td>
 									</tr>
 									<tr>
@@ -439,7 +439,7 @@ h1, h2, h3, h4, h5, h6, th {font-weight: 400;}
 						<div class="red07-inner">
 							<img src="../images/red/red07-img.png" alt="사진">
 							<p>베트남 쌀국수 대표 브랜드 ‘포메인’을 운영해온 ㈜데일리킹은<br/>
-							14년 전을 거슬러 현재를 보는 안목과 변치 않는 초심으로 <br/>
+							15년 전을 거슬러 현재를 보는 안목과 변치 않는 초심으로 <br/>
 							다가올 10년을 향해 도약하고자 합니다.</p>
 							<div class="red07-in">
 								<p class="red07-tit01">名品 쌀국수</p>
@@ -539,7 +539,7 @@ h1, h2, h3, h4, h5, h6, th {font-weight: 400;}
 									<li>
 										<img src="../images/red/red9-icon1.png" alt="">
 										<b>간략한 자기소개 부탁드립니다.</b>
-										<p>포메인을 운영하다 지난 11월 포메인 레드 1호 도곡점을 오픈한 김지현 점주입니다.</p>
+										<p>포메인을 운영하다 2019년 지난 11월 포메인 레드 1호 도곡점을 오픈한 김지현 점주입니다.</p>
 									</li>
 									<li>
 										<img src="../images/red/red9-icon1.png" alt="">

@@ -368,7 +368,7 @@
 .ceo-info .page-logo .txt {color:#999; font-size:19px;}
 .ceo-info .page-box {width:1080px; margin:0 auto; padding:100px 0 100px 300px; box-sizing:border-box; text-align:left;}
 .ceo-info .page-box .txt01 {color:#333; font-size:25px; font-weight:500; line-height:38px; letter-spacing:-0.05em;}
-.ceo-info .page-box .txt02 {position: absolute; margin: 0; float: left; left: 350px; top: 40px;}
+.ceo-info .page-box .txt02 {position: absolute; margin: 0; float: left; left: 0; top: 40px;}
 .ceo-info .page-box .txt02 span {font-size: 23px;}
 .ceo-info .page-box .txt02 span.sep {font-size: 45px; display: block;}
 /* .ceo-info .page-box .txt02:after {content:''; display:block; position:absolute; top:0; left:0; width:240px; height:238px; border:15px solid #eeeeee; border-right:none; box-sizing:border-box;} */

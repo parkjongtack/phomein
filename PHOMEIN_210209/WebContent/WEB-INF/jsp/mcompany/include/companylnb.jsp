@@ -37,6 +37,7 @@
 			<dd style="display:none;">MENU</dd>
 			<ul class="dep_list">
 				<li><a href="/mbrand/menu/menu_list.do">메뉴</a></li>
+				<li style="display: none;"><a href="/mbrand/menu/red_menu_list.do">메뉴</a></li>
 				<li><a href="/mcompany/franchisee/rice.do">국내유일 햅쌀면</a></li>
 			</ul>
 		</div>
@@ -58,7 +59,7 @@
 				<li style="display:none;"><a href="/mcompany/franchisee/step03.do">가맹 안내</a></li>
 				<li><a href="/mcompany/franchisee/terms.do">가맹 상담 신청</a></li>
 				<li style="display:none;"><a href="/mcompany/franchisee/info.do">가맹 상담 신청</a></li>
-				<li><a href="/mcompany/franchisee/terms.do">연구개발</a></li>
+				<li><a href="/mcompany/rnd/educ.do">교육시스템</a></li>
 			</ul>
 		</div>
 		<div class="dep dep2" style="display:none;">
@@ -79,7 +80,7 @@
 				<li style="display:none;"><a href="/mbrand/phomein/mileage_04.do">멤버십</a></li>
 			</ul>
 		</div>
-		<div class="dep dep2" style="display:none;">
+		<!-- <div class="dep dep2" style="display:none;">
 			<a href="#none">CS CENTER</a>
 			<dd style="display:none;">CS CENTER</dd>
 			<ul class="dep_list">
@@ -95,7 +96,7 @@
 				<li><a href="/mbrand/etc/privacy.do">개인정보취급방침</a></li>
 				<li><a href="/mbrand/etc/email.do">이메일무단수집거부</a></li>
 			</ul>
-		</div>
+		</div> -->
 	</div>
 
 	<script>

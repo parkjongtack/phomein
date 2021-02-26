@@ -33,7 +33,7 @@
 	<section id="dBody" class="cphomein">
 		<!-- page-title -->
 		<div class="page-title">
-			<div class="visual" style="background-image:url('../images/content/sub_visual_01.jpg');"></div>
+			<div class="visual" style="background-image:url('/brand/images/sub/bg_09.png');"></div>
 			<h2 class="h2-type">상품권</h2>
 			<span class="txt">사은품, 이벤트 등 특별한 날에 포메인 상품권과 함께하세요.</span>
 		</div>
@@ -148,9 +148,9 @@
 	<!-- 20190318 수정 s -->
 	<!-- 메인, 매장찾기 페이지 반영 제외 -->
 	<div class="quick-menu">
-		<a href="/brand/menu/menu_list.do" class="btn-menu">포메인 메뉴</a>
-		<a href="/company/main/main.do" target="_blank" class="btn-company">프랜차이즈</a>
-		<a href="/company/franchisee/step01.do" target="_blank" class="btn-franchisee">가맹 안내</a>
+		<a href="/company/franchisee/rice.do" class="btn-menu">국내유일 햅쌀면</a>
+		<a href="/company/franchisee/terms.do" target="_blank" class="btn-company">가맹 상담</a>
+		<a href="/brand/store/store_list.do" target="_blank" class="btn-franchisee">매장 찾기</a>
 		<a href="javascript:front.common.moveScroll(0, 750);" class="btn-top">TOP</a>
 	</div>
 	<!-- //20190318 수정 e -->

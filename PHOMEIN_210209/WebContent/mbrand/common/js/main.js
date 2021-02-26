@@ -20,10 +20,10 @@
 			effect: "fade",
 			loop: true,
 			speed: 500,
-			//autoplay: {
-			//	delay: 4000,
-			//	disableOnInteraction: false
-			//},
+			autoplay: {
+				delay: 4000,
+				disableOnInteraction: false
+			},
 			pagination: {
 				el: '.swiper_pagination',
 				clickable: true,

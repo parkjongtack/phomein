@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 	<footer id="footer">
 		<!-- family-site -->
-		<div class="family-site">
+		<!-- <div class="family-site">
 			<a href="#">FAMILY SITE</a>
 			<div class="list">
 				<ul>
@@ -10,7 +10,7 @@
 					<li><a href="#">사이트 3</a></li>
 				</ul>
 			</div>
-		</div>
+		</div> -->
 		<!-- //family-site -->
 		<ul class="foot_menu">
 			<li><a href="/mbrand/cs_center/cs_terms.do">브랜드 제휴 문의</a></li>

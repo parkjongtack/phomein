@@ -256,7 +256,9 @@
 						<c:when test="${not empty resultList }" >
 							<ul id="snsUl">
 								<c:forEach items="${resultList }" var="result" varStatus="status" >
-									<li><a href="${result.url}"><img src="${result.m_thimg }" alt="${result.m_alt }"></a></li>
+									<li class=<c:if test="${result.cate == '109205' }">"ico_you"</c:if><c:if test="${result.cate == '109204' }">"ico_blo"</c:if><c:if test="${result.cate == '109203' }">"ico_ins"</c:if> >
+										<a href="${result.url}"><img src="${result.m_thimg }" alt="${result.m_alt }"></a>
+									</li>
 								</c:forEach>
 							</ul>
 						</c:when>
@@ -473,12 +475,21 @@
 	        },
 	        dataType: 'json',
 	        success: function (data) {
-
+				console.log(data);
 	        	var $html = "";
 	    	    if(data.resultList.length > 0) {
 					$.each(data.resultList, function(key, index){
+						
+						if(data.resultList[key].cate == '109203'){
+							var ico_class = 'ico_ins';	
+						}else if(data.resultList[key].cate == '109204'){
+							var ico_class = 'ico_blo';
+						}else if(data.resultList[key].cate == '109205'){
+							var ico_class = 'ico_you';
+						}
+						
 						$html = '';
-						$html += '<li><a href=\''+data.resultList[key].url+'\'><img src=\''+data.resultList[key].m_thimg+'\' alt=\''+data.resultList[key].m_alt+'\'></a></li>';
+						$html += '<li class="'+ico_class+'"><a href=\''+data.resultList[key].url+'\'><img src=\''+data.resultList[key].m_thimg+'\' alt=\''+data.resultList[key].m_alt+'\'></a></li>';
 						$('#snsUl').append($html);
 	    			});
 				}

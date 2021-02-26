@@ -33,7 +33,7 @@
 	<section id="dBody" class="cphomein">
 		<!-- page-title -->
 		<div class="page-title">
-			<div class="visual" style="background-image:url('../images/content/sub_visual_01.jpg');"></div>
+			<div class="visual" style="background-image:url('/brand/images/sub/bg_10.png');"></div>
 			<h2 class="h2-type">멤버십</h2>
 			<span class="txt">포메인의 멤버십 서비스를 소개합니다.<br>간편 조회로 편하게 포메인 마일리지 서비스를 만나보세요.</span>
 		</div>
@@ -71,9 +71,9 @@
 						<li>
 							<p class="tit">
 								<strong>적립</strong>
-								<span>결제 금액 2% 적립</span>
+								<span>결제 금액 1% 적립</span>
 							</p>
-							<p class="txt">전 메뉴 결제 금액의 2%가 적립됩니다. 추후 적립은 <br>영수증 소지 시 3일 이내에 해당 매장에서 신청 가능합니다.</p>
+							<p class="txt">전 메뉴 결제 금액의 1%가 적립됩니다. 추후 적립은 <br>영수증 소지 시 3일 이내에 해당 매장에서 신청 가능합니다.</p>
 						</li>
 						<li>
 							<p class="tit">
@@ -131,9 +131,9 @@
 	<!-- 20190318 수정 s -->
 	<!-- 메인, 매장찾기 페이지 반영 제외 -->
 	<div class="quick-menu">
-		<a href="/brand/menu/menu_list.do" class="btn-menu">포메인 메뉴</a>
-		<a href="/company/main/main.do" target="_blank" class="btn-company">프랜차이즈</a>
-		<a href="/company/franchisee/step01.do" target="_blank" class="btn-franchisee">가맹 안내</a>
+		<a href="/company/franchisee/rice.do" class="btn-menu">국내유일 햅쌀면</a>
+		<a href="/company/franchisee/terms.do" target="_blank" class="btn-company">가맹 상담</a>
+		<a href="/brand/store/store_list.do" target="_blank" class="btn-franchisee">매장 찾기</a>
 		<a href="javascript:front.common.moveScroll(0, 750);" class="btn-top">TOP</a>
 	</div>
 	<!-- //20190318 수정 e -->

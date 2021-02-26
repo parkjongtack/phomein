@@ -115,12 +115,16 @@
 								<h3>PHOSEASON INC.</h3>
 								<p>2015년 설립한 베트남 현지법인 쌀국수 공장 포시즌에서 <br/>포메인만의 독자기술로 국내유일 햅쌀면과<br/>명품육수 제조용 허브백을 자체개발-생산합니다.</p>
 								<div class="btn_box">
-									<a href="">
-										<span>포시즌</span>
-									</a>
-									<a href="">
-										<span>국내유일 햅쌀면</span>
-									</a>
+									<div>
+										<a href="/company/rnd/phoseason.do">
+											<span>포시즌</span>
+										</a>
+									</div>
+									<div>
+										<a href="/company/franchisee/rice.do">
+											<span>국내유일 햅쌀면</span>
+										</a>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -130,7 +134,7 @@
 								<h3>MENU</h3>
 								<p>포메인만의 레시피로 재해석한<br/>베트남 요리의 감동을 즐겨보세요.</p>
 								<div class="btn_box">
-									<a href=""><span>메뉴보기</span></a>
+									<a href="/brand/menu/menu_list.do"><span>메뉴보기</span></a>
 								</div>
 							</div>
 						</div>
@@ -159,12 +163,12 @@
 								<li>
 									<p class="tit">브랜드 파워</p>
 									<p class="img"><img src="/company/images/content/ico_franchisee_05.png" alt=""/></p>
-									<p class="round-btn"><a href="/company/rnd/phoseason.do"><span>자세히 보기</span></a></p>
+									<p class="round-btn"><a href="/company/franchisee/step01.do"><span>자세히 보기</span></a></p>
 								</li>
 								<li>
-									<p class="tit">연구개발</p>
+									<p class="tit">교육시스템</p>
 									<p class="img"><img src="/company/images/content/ico_franchisee_04.png" alt=""/></p>
-									<p class="round-btn"><a href="/company/franchisee/step01.do"><span>자세히 보기</span></a></p>
+									<p class="round-btn"><a href="/company/rnd/educ.do"><span>자세히 보기</span></a></p>
 								</li>
 								<li>
 									<p class="tit">가맹 상담 신청</p>
@@ -185,6 +189,17 @@
 					<div class="commuity-section">
 						<div class="top-box sns-list">
 							<p class="tit">SNS</p>
+							<div class="sns_link_box">
+								<a href="https://www.youtube.com/channel/UCWAJe4McbHlhQc_CcHc8Qmw" target="_blank">
+									<img src="/brand/images/tmp/ico_you.png" alt="" />
+								</a>
+								<a href="https://www.instagram.com/phomeinkr/" target="_blank">
+									<img src="/brand/images/tmp/ico_ins.png" alt="" />
+								</a>
+								<a href="https://blog.naver.com/dk_phomein" target="_blank">
+									<img src="/brand/images/tmp/ico_blo.png" alt="" />
+								</a>
+							</div>
 							<div class="img-board-list type02 swiper-container sns_slider">
 								<ul class="swiper-wrapper">
 									<c:choose>
@@ -320,6 +335,37 @@
 				}
 			}
 		});
+		//첫 페이지 슬라이드
+	 	var winW = $(window).width(),
+			winH = $(window).height(),
+			topVisual = $('.top-visual'),
+			list = topVisual.find('.list');
+
+		list.css({width: winW+'px', height: winH+'px'});
+		
+		topVisual.slick({
+			arrows: false,
+			dots: true,
+			customPaging: function(slider, i) {
+				var tit = $(slider.$slides[i]).find('.visual-dot-nav').html();
+				return '<div class="pager-tit" class=' + i + '>'+ tit + '</div>';
+			},
+			fade: true,
+			slidesToShow: 1,
+			autoplay: true,
+			autoplaySpeed: 9000,
+			pauseOnHover:false,
+			pauseOnFocus:false
+		});
+	});
+	
+	$(window).resize(function(){
+		var winW = $(window).width(),
+		winH = $(window).height(),
+		topVisual = $('.top-visual'),
+		list = topVisual.find('.list');
+
+		list.css({width: winW+'px', height: winH+'px'});
 	});
 
 	$('.slick-dots > li').on('mouseenter', function(){
@@ -330,28 +376,9 @@
 		topVisual.slick('slickSetOption', 'autoplay', true).slick('slickPlay');
 	});
 
-	//첫 페이지 슬라이드
- 	var winW = $(window).width(),
-		winH = $(window).height(),
-		topVisual = $('.top-visual'),
-		list = topVisual.find('.list');
+	
 
-	list.css({width: winW+'px', height: winH+'px'});
-
- 	topVisual.slick({
-		arrows: false,
-		dots: true,
-		customPaging: function(slider, i) {
-			var tit = $(slider.$slides[i]).find('.visual-dot-nav').html();
-			return '<div class="pager-tit" class=' + i + '>'+ tit + '</div>';
-		},
-		fade: true,
-		slidesToShow: 1,
-		autoplay: true,
-		autoplaySpeed: 9000,
-		pauseOnHover:false,
-		pauseOnFocus:false
-	});
+ 	
  	
  	//sns 슬라이더
  	var swiper = new Swiper('.sns_slider', {
